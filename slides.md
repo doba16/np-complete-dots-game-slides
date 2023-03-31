@@ -1,6 +1,6 @@
 ---
 # try also 'default' to start simple
-theme: seriph
+theme: "@doba16/slidev-theme-htw"
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
 background: https://source.unsplash.com/collection/94734566/1920x1080
@@ -23,6 +23,7 @@ drawings:
 transition: slide-left
 # use UnoCSS
 css: unocss
+image: /dots.png
 ---
 
 # NP-Vollständigkeit von Two Dots
