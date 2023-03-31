@@ -47,7 +47,7 @@ jobs:
         env:
           NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Build app
-        run: yarn build --base /np-complete-dots-game-slides
+        run: yarn build --base /np-complete-dots-game-slides/
         
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
