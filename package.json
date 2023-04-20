@@ -7,8 +7,8 @@
     "export": "slidev export"
   },
   "dependencies": {
-    "@doba16/predictable-dots-game": "1.0.1",
-    "@doba16/slidev-theme-htw": "0.0.3",
+    "@doba16/predictable-dots-game": "2.0.0",
+    "@doba16/slidev-theme-htw": "0.0.4",
     "@slidev/cli": "^0.40.5",
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*"

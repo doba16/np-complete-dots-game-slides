@@ -302,17 +302,17 @@
   resolved "https://registry.yarnpkg.com/@braintree/sanitize-url/-/sanitize-url-6.0.2.tgz#6110f918d273fe2af8ea1c4398a88774bb9fc12f"
   integrity sha512-Tbsj02wXCbqGmzdnXNk0SOF19ChhRU70BsroIi4Pm6Ehp56in6vch94mfbdQ17DozxkL3BAVjbZ4Qc1a0HFRAg==
 
-"@doba16/predictable-dots-game@1.0.1":
-  version "1.0.1"
-  resolved "https://npm.pkg.github.com/download/@doba16/predictable-dots-game/1.0.1/a34f9797fe055a0454003d91d3296a9a6c0f5605#a34f9797fe055a0454003d91d3296a9a6c0f5605"
-  integrity sha512-Kt0CyVZR+Am8yMXV7MjUtldjkiRKjTaj+tbAOe2y4zT2Eo5iq/oPsGQ+VPIQOSilNorXE4BFNiCvfenBx4KQPQ==
+"@doba16/predictable-dots-game@2.0.0":
+  version "2.0.0"
+  resolved "https://npm.pkg.github.com/download/@doba16/predictable-dots-game/2.0.0/0574003657b701ac86e5996788458ed85a3b853b#0574003657b701ac86e5996788458ed85a3b853b"
+  integrity sha512-vqAl7MTjwerYz8VZ/ikN+6q+h32JTQ+tvc7AcYyagr/LdolDX0mk2k7eyqJJpb9QhEmnNiZRrcoKiCK30oz5Ug==
   dependencies:
     typescript "^5.0.2"
 
-"@doba16/slidev-theme-htw@0.0.3":
-  version "0.0.3"
-  resolved "https://npm.pkg.github.com/download/@doba16/slidev-theme-htw/0.0.3/e54c1b3fb5ab251a59a9b71e920073ae4bd5ac1f#e54c1b3fb5ab251a59a9b71e920073ae4bd5ac1f"
-  integrity sha512-vCtGBJBduyvmdjwxRnpBMuBOPdo79JfB2/5a4n86nfpAQjPMmCIvTN8MLC0kyXBFId+9FWmVQ/8JmRV1kBFGgg==
+"@doba16/slidev-theme-htw@0.0.4":
+  version "0.0.4"
+  resolved "https://npm.pkg.github.com/download/@doba16/slidev-theme-htw/0.0.4/fbb5338df95a7c4bb2ffa87e587b66eeb75f3939#fbb5338df95a7c4bb2ffa87e587b66eeb75f3939"
+  integrity sha512-dMved3lMDFmLjnKUI70mNjhBeMLA8C6LzNtt/knJZOj6wdZ3jNgqUH5rIH0pYjODEFQR0T6gSPWfVOOlXImdxA==
   dependencies:
     "@slidev/types" "^0.38.2"
     codemirror-theme-vars "^0.1.1"
