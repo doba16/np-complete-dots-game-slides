@@ -27,19 +27,31 @@ onMounted(() => {
         engine,
         width: 6,
         height: 6,
-        allowedMoves: 30,
+        allowedMoves: 15,
         dotSequence: [
-            G, D, D, D, Y, R,
-            Y, B, D, R, R, R,
-            P, G, R, D, Y, R,
+            R, P, G, P, Y, R,
+            Y, B, P, R, R, R,
+            P, G, R, P, Y, R,
             Y, P, R, B, B, Y,
-            P, Y, P, G, P, G,
-            G, Y, G, P, G, Y,
+            P, B, P, G, P, G,
+            G, B, G, P, G, Y,
 
-            Y, B, G, G, Y, D, B, P, G,
-            Y, D, Y, B, B
+            Y, B, R, R, Y, R, B, P, G,
+            Y, R, Y, B, B,
+
+            R, G, B, R, G, B, R, G, B, R, G, B, R, G, B, R, G, B, R, G, B, R, G, B, R, G, B, R, G, B, R, G, B, R, G, B, R, G, B, R, G, B
+
         ],
-        afterSequenceEnds: "dummy"
+        afterSequenceEnds: "random",
+        goals: [
+            {
+                color: G,
+                neededAmount: 12
+            }, {
+                color: P,
+                neededAmount: 10
+            }
+        ]
     })
 });
 
