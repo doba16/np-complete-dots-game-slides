@@ -24,10 +24,15 @@ transition: slide-left
 # use UnoCSS
 css: unocss
 image: /dots.png
+hideInToc: true
 ---
 
 # NP-Vollständigkeit von Two Dots
 
+##### Dominik Bastian
+
+---
+hideInToc: true
 ---
 
 # NP-Vollständige Probleme
@@ -46,7 +51,16 @@ image: /dots.png
 
 ---
 
-# Dots Game
+# Inhalt
+
+1. Das Spiel Two Dots
+2. Formalisierung von Two Dots
+3. NP-Vollständigkeit von Two Dots
+4. Zusammenfassung
+
+----
+
+# Das Spiel Two Dots
 
 <DotsGame />
 

@@ -61,31 +61,31 @@
      id="layer1"
      transform="translate(-35.501846,-42.230057)">
     <circle
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:29;stroke-dasharray:none;stroke-dashoffset:165.77"
+       style="fill:#e64d1a;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:29;stroke-dasharray:none;stroke-dashoffset:165.77;fill-opacity:1"
        id="path18557"
        cx="46.001846"
        cy="57.044933"
        r="5" />
     <circle
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:29;stroke-dasharray:none;stroke-dashoffset:165.77"
+       style="fill:#d0e61a;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:29;stroke-dasharray:none;stroke-dashoffset:165.77;fill-opacity:1"
        id="path18557-9"
        cx="71.405174"
        cy="52.730057"
        r="5" />
     <circle
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:29;stroke-dasharray:none;stroke-dashoffset:165.77"
+       style="fill:#21e61a;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:29;stroke-dasharray:none;stroke-dashoffset:165.77;fill-opacity:1"
        id="path18557-2"
        cx="46.449032"
        cy="80.082695"
        r="5" />
     <circle
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:29;stroke-dasharray:none;stroke-dashoffset:165.77"
+       style="fill:#1ae6c1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:29;stroke-dasharray:none;stroke-dashoffset:165.77;fill-opacity:1"
        id="path18557-0"
        cx="71.813545"
        cy="78.793999"
        r="5" />
     <circle
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:29;stroke-dasharray:none;stroke-dashoffset:165.77"
+       style="fill:#1a5be6;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:29;stroke-dasharray:none;stroke-dashoffset:165.77;fill-opacity:1"
        id="path18557-23"
        cx="96.4673"
        cy="62.970226"
