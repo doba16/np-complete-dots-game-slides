@@ -68,6 +68,8 @@ hideInToc: true
 
 # Reduktion von Clique
 
+<img src="/Graph.svg" style="height: 100%" />
+
 <DotsGameReduction />
 
 ---
